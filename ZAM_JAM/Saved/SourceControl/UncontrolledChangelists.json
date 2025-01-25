@@ -6,7 +6,30 @@
 			"description": "Lista de cambios no controlados predeterminada",
 			"files": [
 				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/Materials/M_PruebaToonShading.uasset",
-				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/23/TBSZIRSL04Q7Y34T0KL6R0.uasset"
+				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/23/TBSZIRSL04Q7Y34T0KL6R0.uasset",
+				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/Materials/PPM_Highlight.uasset",
+				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/Materials/BP_Prueba.uasset",
+				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
+				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/KR/SSWRLD000BUGCJ0LOXQUHC.uasset",
+				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/VD/LC19R3P0TMFUBBBHX2Z1OC.uasset",
+				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/GO/G50DT8G1L9LA3OOVN3ZSVS.uasset",
+				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/5I/S3E5BYG0LJJUAJ3SG0PASE.uasset",
+				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/FirstPerson/Input/Actions/IA_Scan.uasset",
+				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/FirstPerson/Input/Actions/IA.uasset",
+				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/FirstPerson/Input/Actions/IA_Interact.uasset",
+				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/Materials/BP_Prueba2.uasset",
+				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/NC/EMTZCM2RCB4JNHB8MMCM2F.uasset",
+				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/Materials/BP_Prueba_Child.uasset",
+				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/TY/NBI41J573AEQERN1RMSI4L.uasset",
+				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/44/SN0LX0USG5Q85IPQWZJZGM.uasset",
+				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/MN/OMVYYUJNFGAXBG0GJLFICE.uasset",
+				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/U0/MISJGZ44ELIOAE1BELABB6.uasset",
+				"C:/Users/oscar/Desktop/ZAM-JAM/ZAM_JAM/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/3P/UM4FHAARCAYUXFSMS7AUZ2.uasset"
 			]
 		}
 	]
