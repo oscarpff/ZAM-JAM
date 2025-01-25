@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/elsar/Documents/GitHub/ZAM-JAM/ZAM_JAM/Content/Niveles/Menu.umap",
+				"C:/Users/elsar/Documents/GitHub/ZAM-JAM/ZAM_JAM/Content/Materiales/M_cartoon.uasset"
+			]
+		}
+	]
+}
