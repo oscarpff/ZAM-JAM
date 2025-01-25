@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Lista de cambios no controlados predeterminada",
 			"files": [
+				"F:/Tomas/ZAM-JAM/ZAM_JAM/Content/Burbuja/BP_Burbuja.uasset",
+				"F:/Tomas/ZAM-JAM/ZAM_JAM/Content/Burbuja/BP_BurbujaHijo.uasset",
+				"F:/Tomas/ZAM-JAM/ZAM_JAM/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/LN/FPTJC66JVXG1N0KKR60ASF.uasset",
+				"F:/Tomas/ZAM-JAM/ZAM_JAM/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/9A/U22I9ZTUDY3J7EJO16V16I.uasset",
+				"F:/Tomas/ZAM-JAM/ZAM_JAM/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/FT/G2NGIAOK95JCNXNSSYV2UV.uasset",
 				"C:/Users/elsar/Documents/GitHub/ZAM-JAM/ZAM_JAM/Content/Niveles/Menu.umap",
 				"C:/Users/elsar/Documents/GitHub/ZAM-JAM/ZAM_JAM/Content/Materiales/M_cartoon.uasset"
 			]
